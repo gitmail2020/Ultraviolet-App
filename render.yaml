@@ -1,7 +1,7 @@
 services:
   - type: web
-    name: elixir
+    name: dkkkdkd
     env: node
     buildCommand: npm install
-    startCommand: npm start
+    startCommand: npm 
     plan: free
