@@ -3,5 +3,5 @@ services:
     name: dkkkdkd
     env: node
     buildCommand: npm install
-    startCommand: npm 
+    startCommand: node src/index.js
     plan: free
